@@ -1,0 +1,4 @@
+total 8
+drwxr-xr-x 2 seguridad seguridad 4096 feb  1 08:49 .
+drwxr-xr-x 5 seguridad seguridad 4096 feb  1 08:49 ..
+-rw-r--r-- 1 seguridad seguridad    0 feb  1 08:49 archivo.txt
