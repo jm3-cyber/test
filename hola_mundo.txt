@@ -1,4 +1,4 @@
 Hola mundo!
 Vamos a ver si esto representa problemas...
-Y creo que esto sí va a representar cambios conflictivos :)
-
+La adición de nuevo contenido puede presentar conflictos entre versiones.
+La idea de esto es ver si los dispara...
